@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: blue;
+    background-color: orange;
+}
+
+article {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#individualpicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
